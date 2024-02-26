@@ -1,0 +1,9 @@
+# ninja log v5
+1	196	1641399303809475420	CMakeFiles/mem_alloc.dir/main.c.o	3cd19c870b9eef6d
+323	412	1641400046720860461	mem_alloc	bea4fb3da64b7da
+7	289	1641299156912800282	CMakeFiles/mem_alloc.dir/util.c.o	db4e38dacf90736f
+3	322	1641400046632859971	CMakeFiles/mem_alloc.dir/tests.c.o	bde9bd2be6f14116
+4	105	1641400065808967033	build.ninja	bc6dce44067ca2b2
+2	311	1641398726957478295	CMakeFiles/mem_alloc.dir/test.c.o	cf106170ee87aef
+1	317	1641398726957478295	CMakeFiles/mem_alloc.dir/mem.c.o	c2fbbbfd82d384ac
+1	198	1641399303809475420	CMakeFiles/mem_alloc.dir/mem_debug.c.o	540f47c11153f183
